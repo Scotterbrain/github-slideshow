@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Have FUN!!!
+Witty Quotes are not always made by Witty People!!!
 Use the left arrow to go back!
